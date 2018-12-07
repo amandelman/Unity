@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{481D757D-ABFD-0DE5-B3A4-CB9F57E84827}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LineDrawingController.cs">
+    <Files>
+      <File FileName="Assets/House.cs" Line="11" Column="42" />
+      <File FileName="Assets/LineControlScript.cs" Line="28" Column="1" />
+      <File FileName="Assets/LineDrawingController.cs" Line="7" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

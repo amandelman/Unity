@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/2DGamekit/Scenes/My First 2d Game Level.unity
+  isLoaded: 1
+  isActive: 1
