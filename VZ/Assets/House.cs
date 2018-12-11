@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//this is a comment
+
 public class House : MonoBehaviour {
 
     public float growthRatePerSecond = 1.1f; // in seconds

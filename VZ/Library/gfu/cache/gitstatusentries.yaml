@@ -12,440 +12,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-12-11T10:54:24.850+01:00
-  initializedAtString: 2018-12-11T10:39:07.201+01:00
+  lastUpdatedAtString: 2018-12-11T15:47:33.962+01:00
+  initializedAtString: 2018-12-11T15:28:12.658+01:00
   entries:
-  - path: VZ/.vs/VZ/xs/sqlite3/storage.ide-shm
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/.vs/VZ/xs/sqlite3/storage.ide-shm
-    projectPath: .vs/VZ/xs/sqlite3/storage.ide-shm
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: VZ/.vs/VZ/xs/sqlite3/storage.ide-wal
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/.vs/VZ/xs/sqlite3/storage.ide-wal
-    projectPath: .vs/VZ/xs/sqlite3/storage.ide-wal
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: VZ/.vs/VZ/xs/UserPrefs.xml
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/.vs/VZ/xs/UserPrefs.xml
-    projectPath: .vs/VZ/xs/UserPrefs.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: VZ/Assembly-CSharp.csproj
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
   - path: VZ/Assembly-CSharp-Editor-firstpass.csproj
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assembly-CSharp-Editor-firstpass.csproj
     projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: VZ/Assets/Plugins.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins.meta
-    projectPath: Assets/Plugins.meta
+  - path: VZ/Assets/House.cs
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/House.cs
+    projectPath: Assets/House.cs
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: VZ/Assets/Plugins/GitHub.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub.meta
-    projectPath: Assets/Plugins/GitHub.meta
+  - path: VZ/Assets/LineControlScript.cs
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/LineControlScript.cs
+    projectPath: Assets/LineControlScript.cs
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor.meta
-    projectPath: Assets/Plugins/GitHub/Editor.meta
+  - path: VZ/Assets/LineDrawingController.cs
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/LineDrawingController.cs
+    projectPath: Assets/LineDrawingController.cs
     originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
-    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/big-logo@2x.png
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/big-logo@2x.png
-    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
-    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/credits.txt
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/credits.txt
-    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/credits.txt.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/credits.txt.meta
-    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/eula.txt
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/eula.txt
-    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/eula.txt.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/eula.txt.meta
-    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
-    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
-    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/libsfw.bundle
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/libsfw.bundle
-    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
-    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/libsfw.so
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/libsfw.so
-    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/libsfw.so.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/libsfw.so.meta
-    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
-    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
-    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
-    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
-    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/sfw.net.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/sfw.net.dll
-    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/System.Threading.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/System.Threading.dll
-    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/x64.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/x64.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
-    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
-    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/x86.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/x86.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
-    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
-    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: VZ/Assets/Scenes/SampleScene.unity
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Scenes/SampleScene.unity
@@ -475,493 +67,79 @@ MonoBehaviour:
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: VZ/Library/gfu/cache/branches.yaml
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: VZ/Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: VZ/Library/gfu/cache/gitlog.yaml
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/gfu/cache/gitlog.yaml
     projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: VZ/Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: VZ/Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: VZ/Library/gfu/cache/gituser.yaml
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/gfu/cache/gituser.yaml
     projectPath: Library/gfu/cache/gituser.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: VZ/Library/gfu/cache/repoinfo.yaml
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/gfu/cache/repoinfo.yaml
     projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: VZ/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
-    projectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+  - path: VZ/Library/InspectorExpandedItems.asset
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: VZ/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
-    projectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+  - path: VZ/Library/metadata/0c/0cbf07a5983014753bf95cd64377b7ad
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/0c/0cbf07a5983014753bf95cd64377b7ad
+    projectPath: Library/metadata/0c/0cbf07a5983014753bf95cd64377b7ad
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: VZ/Library/metadata/13/136dc24f151211d438acee17aff4e934
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/13/136dc24f151211d438acee17aff4e934
-    projectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934
+  - path: VZ/Library/metadata/19/19c17e48638ec4af18ad5f527febbe68
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/19/19c17e48638ec4af18ad5f527febbe68
+    projectPath: Library/metadata/19/19c17e48638ec4af18ad5f527febbe68
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: VZ/Library/metadata/13/136dc24f151211d438acee17aff4e934.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/13/136dc24f151211d438acee17aff4e934.info
-    projectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+  - path: VZ/Library/metadata/dc/dca8d9fd4039943b783b476cc4ac8e4d
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/dc/dca8d9fd4039943b783b476cc4ac8e4d
+    projectPath: Library/metadata/dc/dca8d9fd4039943b783b476cc4ac8e4d
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: VZ/Library/metadata/15/151a1d946b98deb4b98445400983ba92
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/15/151a1d946b98deb4b98445400983ba92
-    projectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+  - path: VZ/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
     originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
-    projectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
-    projectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
-    projectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/18/181f65fb096cedd4493bc9971257d8b1
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/18/181f65fb096cedd4493bc9971257d8b1
-    projectPath: Library/metadata/18/181f65fb096cedd4493bc9971257d8b1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/18/181f65fb096cedd4493bc9971257d8b1.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/18/181f65fb096cedd4493bc9971257d8b1.info
-    projectPath: Library/metadata/18/181f65fb096cedd4493bc9971257d8b1.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/18/18e096a98c2704c40a818dd1214cd179
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/18/18e096a98c2704c40a818dd1214cd179
-    projectPath: Library/metadata/18/18e096a98c2704c40a818dd1214cd179
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/18/18e096a98c2704c40a818dd1214cd179.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/18/18e096a98c2704c40a818dd1214cd179.info
-    projectPath: Library/metadata/18/18e096a98c2704c40a818dd1214cd179.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
-    projectPath: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
-    projectPath: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/21/219646ab8af949b47a1757fd7636de65
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/21/219646ab8af949b47a1757fd7636de65
-    projectPath: Library/metadata/21/219646ab8af949b47a1757fd7636de65
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/21/219646ab8af949b47a1757fd7636de65.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/21/219646ab8af949b47a1757fd7636de65.info
-    projectPath: Library/metadata/21/219646ab8af949b47a1757fd7636de65.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/23/23c8bee69b591054094d32918f98facd
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/23/23c8bee69b591054094d32918f98facd
-    projectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/23/23c8bee69b591054094d32918f98facd.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/23/23c8bee69b591054094d32918f98facd.info
-    projectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6
-    projectPath: Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6.info
-    projectPath: Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/30/305b6e818055a104982596b94deddcef
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/30/305b6e818055a104982596b94deddcef
-    projectPath: Library/metadata/30/305b6e818055a104982596b94deddcef
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/30/305b6e818055a104982596b94deddcef.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/30/305b6e818055a104982596b94deddcef.info
-    projectPath: Library/metadata/30/305b6e818055a104982596b94deddcef.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
-    projectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
-    projectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/63/636d33ae594884e7d80b569f429d245d
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/63/636d33ae594884e7d80b569f429d245d
-    projectPath: Library/metadata/63/636d33ae594884e7d80b569f429d245d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
-    projectPath: Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4
-    projectPath: Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4.info
-    projectPath: Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb
-    projectPath: Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb.info
-    projectPath: Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5
-    projectPath: Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5.info
-    projectPath: Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
-    projectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
-    projectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/7e/7e9edc5c0a650b94399165badb935cf6
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/7e/7e9edc5c0a650b94399165badb935cf6
-    projectPath: Library/metadata/7e/7e9edc5c0a650b94399165badb935cf6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/7e/7e9edc5c0a650b94399165badb935cf6.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/7e/7e9edc5c0a650b94399165badb935cf6.info
-    projectPath: Library/metadata/7e/7e9edc5c0a650b94399165badb935cf6.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
-    projectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
-    projectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/87/877ef3585573ce44eab899298be23158
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/87/877ef3585573ce44eab899298be23158
-    projectPath: Library/metadata/87/877ef3585573ce44eab899298be23158
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/87/877ef3585573ce44eab899298be23158.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/87/877ef3585573ce44eab899298be23158.info
-    projectPath: Library/metadata/87/877ef3585573ce44eab899298be23158.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
-    projectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
-    projectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
-    projectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
-    projectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
-    projectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
-    projectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/bf/bf6307933617bbc4f9db1223166cc8cb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/bf/bf6307933617bbc4f9db1223166cc8cb
-    projectPath: Library/metadata/bf/bf6307933617bbc4f9db1223166cc8cb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/bf/bf6307933617bbc4f9db1223166cc8cb.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/bf/bf6307933617bbc4f9db1223166cc8cb.info
-    projectPath: Library/metadata/bf/bf6307933617bbc4f9db1223166cc8cb.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
-    projectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
-    projectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab
-    projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab.info
-    projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
-    projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
-    projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/ca/cad92998c5182496e8b989b406d9f156
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/ca/cad92998c5182496e8b989b406d9f156
-    projectPath: Library/metadata/ca/cad92998c5182496e8b989b406d9f156
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
-    projectPath: Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
-    projectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
-    projectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8
-    projectPath: Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8.info
-    projectPath: Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/da/dae2ecee8a704dd59797e26554ff8606
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/da/dae2ecee8a704dd59797e26554ff8606
-    projectPath: Library/metadata/da/dae2ecee8a704dd59797e26554ff8606
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/da/dae2ecee8a704dd59797e26554ff8606.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/da/dae2ecee8a704dd59797e26554ff8606.info
-    projectPath: Library/metadata/da/dae2ecee8a704dd59797e26554ff8606.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
-    projectPath: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
-    projectPath: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/e3/e3de62aa69c211e4b8c90fc16f6d350e
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/e3/e3de62aa69c211e4b8c90fc16f6d350e
-    projectPath: Library/metadata/e3/e3de62aa69c211e4b8c90fc16f6d350e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/e3/e3de62aa69c211e4b8c90fc16f6d350e.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/e3/e3de62aa69c211e4b8c90fc16f6d350e.info
-    projectPath: Library/metadata/e3/e3de62aa69c211e4b8c90fc16f6d350e.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e
-    projectPath: Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e.info
-    projectPath: Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
-    projectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
-    projectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
-    projectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
-    projectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: VZ/Library/shadercompiler-UnityShaderCompiler0.log
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/shadercompiler-UnityShaderCompiler0.log
@@ -969,15 +147,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: VZ/ProjectSettings/QualitySettings.asset
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/ProjectSettings/QualitySettings.asset
-    projectPath: ProjectSettings/QualitySettings.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: VZ/ProjectSettings/UnityConnectSettings.asset
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/ProjectSettings/UnityConnectSettings.asset
-    projectPath: ProjectSettings/UnityConnectSettings.asset
+  - path: VZ/ProjectSettings/InputManager.asset
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/ProjectSettings/InputManager.asset
+    projectPath: ProjectSettings/InputManager.asset
     originalPath: 
     status: 3
     staged: 0
@@ -985,29 +157,29 @@ MonoBehaviour:
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Temp/ProcessJobs/544e394224cd3d1e157e0f54b69b0b8d.bakert
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/ProcessJobs/544e394224cd3d1e157e0f54b69b0b8d.bakert
-    projectPath: Temp/ProcessJobs/544e394224cd3d1e157e0f54b69b0b8d.bakert
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/Temp/UnityLockfile
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityLockfile
-    projectPath: Temp/UnityLockfile
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: VZ/Temp/UnityTempFile-3ad463443c8ad498ca12339a6ec969f4
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-3ad463443c8ad498ca12339a6ec969f4
     projectPath: Temp/UnityTempFile-3ad463443c8ad498ca12339a6ec969f4
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: VZ/Temp/UnityTempFile-3b74593bd7f5c484e832ce8ea9466d27
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-3b74593bd7f5c484e832ce8ea9466d27
     projectPath: Temp/UnityTempFile-3b74593bd7f5c484e832ce8ea9466d27
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-3ec8e0a75d63a4500911e40067c84e30
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-3ec8e0a75d63a4500911e40067c84e30
+    projectPath: Temp/UnityTempFile-3ec8e0a75d63a4500911e40067c84e30
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-510dd201efc2c4540816ea2153af1e93
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-510dd201efc2c4540816ea2153af1e93
+    projectPath: Temp/UnityTempFile-510dd201efc2c4540816ea2153af1e93
     originalPath: 
     status: 1
     staged: 0
@@ -1015,65 +187,59 @@ MonoBehaviour:
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-6b02546c0d042474197243c399c16130
     projectPath: Temp/UnityTempFile-6b02546c0d042474197243c399c16130
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: VZ/Temp/UnityTempFile-794301799ca3443d0a76924aa88ffe64
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-794301799ca3443d0a76924aa88ffe64
     projectPath: Temp/UnityTempFile-794301799ca3443d0a76924aa88ffe64
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: VZ/Temp/UnityTempFile-909d9642217344271ad880ae3e5c93fa
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-909d9642217344271ad880ae3e5c93fa
     projectPath: Temp/UnityTempFile-909d9642217344271ad880ae3e5c93fa
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: VZ/Temp/UnityTempFile-addc388a8dfed4e2db76e61a02be2904
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-addc388a8dfed4e2db76e61a02be2904
     projectPath: Temp/UnityTempFile-addc388a8dfed4e2db76e61a02be2904
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: VZ/Temp/UnityTempFile-cb5444f35a5af431f9eabb4370ee156c
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-cb5444f35a5af431f9eabb4370ee156c
     projectPath: Temp/UnityTempFile-cb5444f35a5af431f9eabb4370ee156c
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: VZ/Temp/UnityTempFile-cc257758c26cd4176b58cfba48b40df2
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-cc257758c26cd4176b58cfba48b40df2
     projectPath: Temp/UnityTempFile-cc257758c26cd4176b58cfba48b40df2
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: VZ/Temp/UnityTempFile-d3539f8e1caa04c118fa184c2a574609
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-d3539f8e1caa04c118fa184c2a574609
     projectPath: Temp/UnityTempFile-d3539f8e1caa04c118fa184c2a574609
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: VZ/Temp/UnityTempFile-e5790fc9dd38e468086898ea5b8286f6
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-e5790fc9dd38e468086898ea5b8286f6
     projectPath: Temp/UnityTempFile-e5790fc9dd38e468086898ea5b8286f6
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: VZ/Temp/UnityTempFile-e983ab160d31240c7b6ae93966185729
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-e983ab160d31240c7b6ae93966185729
     projectPath: Temp/UnityTempFile-e983ab160d31240c7b6ae93966185729
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: VZ/Temp/UnityTempFile-f3438d93bc39a4447b9f0e8268b08d04
     fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-f3438d93bc39a4447b9f0e8268b08d04
     projectPath: Temp/UnityTempFile-f3438d93bc39a4447b9f0e8268b08d04
     originalPath: 
-    status: 1
-    staged: 0
-  - path: VZ/VZ.sln
-    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/VZ.sln
-    projectPath: VZ.sln
-    originalPath: 
-    status: 3
+    status: 5
     staged: 0

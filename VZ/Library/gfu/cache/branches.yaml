@@ -12,10 +12,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-12-11T10:53:27.635+01:00
-  initializedAtString: 2018-12-11T10:42:01.303+01:00
-  localBranches: []
-  remoteBranches: []
+  lastUpdatedAtString: 2018-12-11T15:47:32.796+01:00
+  initializedAtString: 2018-12-11T15:29:13.840+01:00
+  localBranches:
+  - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/amandelman/Unity.git
@@ -25,15 +29,27 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/amandelman/Unity.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
-    - Values: []
+    - Values:
+      - master
     subKeyValues:
-    - Values: []
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/amandelman/Unity.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin

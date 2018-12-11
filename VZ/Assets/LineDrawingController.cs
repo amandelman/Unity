@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class LineDrawingController : MonoBehaviour {
 
     public float networkCapacityIncrease = 3;
@@ -19,6 +20,7 @@ public class LineDrawingController : MonoBehaviour {
 	}
 
     public void StartLine() {
+
         Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         mousePos.z = 0;
         lineRenderer = GetComponent<LineRenderer>();
