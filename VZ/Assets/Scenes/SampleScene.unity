@@ -343,10 +343,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19c17e48638ec4af18ad5f527febbe68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  growthRatePerSecond: 1.01
-  panicFactor: 0.1
-  demand: 0.01
-  networkCapacity: 0.01
+  networkCapacity: 1
   connectedLines: []
   statusBar: {fileID: 1870030072}
 --- !u!65 &574338316
@@ -845,10 +842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19c17e48638ec4af18ad5f527febbe68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  growthRatePerSecond: 1.01
-  panicFactor: 0.1
-  demand: 0.01
-  networkCapacity: 0.01
+  networkCapacity: 1
   connectedLines: []
   statusBar: {fileID: 1735418878}
 --- !u!65 &1222188811
@@ -1063,10 +1057,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19c17e48638ec4af18ad5f527febbe68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  growthRatePerSecond: 1.01
-  panicFactor: 0.1
-  demand: 0.01
-  networkCapacity: 0.01
+  networkCapacity: 1
   connectedLines: []
   statusBar: {fileID: 1158071706}
 --- !u!1 &1870030072
@@ -1106,6 +1097,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2065776285}
+  - component: {fileID: 2065776286}
   m_Layer: 0
   m_Name: ROOT_ROTATOR
   m_TagString: Untagged
@@ -1130,3 +1122,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2065776286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2065776284}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49ff7340395b047f6a24da6cc1dd205d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dropVel: 0.075
+  growthVel: 0.05
+  networkCapacityIncrease: 5
+  growthRatePerSecond: 1.05
+  demand: 0.01
+  networkCapacity: 1

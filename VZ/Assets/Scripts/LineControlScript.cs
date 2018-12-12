@@ -9,6 +9,8 @@ public class LineControlScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+
+        //Comment this out for dev on regular screens. Make active for play on touchscreens
         //Cursor.visible = false;
     }
 

@@ -53,9 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\House.cs" />
-     <Compile Include="Assets\LineControlScript.cs" />
-     <Compile Include="Assets\LineDrawingController.cs" />
+     <Compile Include="Assets\Scripts\GameSettings.cs" />
+     <Compile Include="Assets\Scripts\House.cs" />
+     <Compile Include="Assets\Scripts\LineControlScript.cs" />
+     <Compile Include="Assets\Scripts\LineDrawingController.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/amandelman/github.amandelman/Unity/VZ/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>

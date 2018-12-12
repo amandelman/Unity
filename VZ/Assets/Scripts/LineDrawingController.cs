@@ -5,19 +5,22 @@ using UnityEngine;
 
 public class LineDrawingController : MonoBehaviour {
 
-    public float networkCapacityIncrease = 3;
+    //Offloaded to Game Settings
+    //public float networkCapacityIncrease = 3;
 
     LineRenderer lineRenderer;
     int count = 0;
+    public float lineCreationTime;
     bool activeDrawing = true;
+
 
 
 	// Use this for initialization
 	void Start () {
         lineRenderer = GetComponent<LineRenderer>();
-        lineRenderer.startWidth = 0.1f;
-        lineRenderer.endWidth = 0.1f;
-	}
+        lineRenderer.startWidth = GameSettings.Instance.lineWidth;
+        lineRenderer.endWidth = GameSettings.Instance.lineWidth;
+    }
 
     public void StartLine() {
 
@@ -26,11 +29,14 @@ public class LineDrawingController : MonoBehaviour {
         lineRenderer = GetComponent<LineRenderer>();
         lineRenderer.positionCount = 1;
         lineRenderer.SetPosition(0, mousePos);
+     
     }
 
 	
 	// Update is called once per frame
 	void Update () {
+
+        // Function to draw lines
         if (activeDrawing)
         {
             // draw on mouse down
@@ -52,15 +58,35 @@ public class LineDrawingController : MonoBehaviour {
             }
             else if (intersectedHouse != null)
             {
+                //Debug.Log(timeSinceLineCreated);
                 lineRenderer.material.color = Color.blue;
-                intersectedHouse.networkCapacity += networkCapacityIncrease;
+                intersectedHouse.networkCapacity += GameSettings.Instance.networkCapacityIncrease;
                 intersectedHouse.connectedLines.Add(this);
                 activeDrawing = false;
+                lineCreationTime = Time.time;
 
             }
 
+        //Make the lines become thin and transparent over time
         }
-	}
+        else
+        {
+            float deltaTime = Time.time - lineCreationTime;
+            float maxTime = 15;
+
+            float t = deltaTime / maxTime; //create a rate of decay for the lines
+            t = Mathf.Min(1, t); //makes sure "t" is never smaller than 1
+            float width = Mathf.Lerp(GameSettings.Instance.lineWidth, 0.01f, t); //interpolates between current line width and super thin line width based on the value of t. Make second value 0 to make lines disappear completely.
+            lineRenderer.startWidth = width;
+            lineRenderer.endWidth = width;
+            lineRenderer.material.color = new Color(0, 0, 255, Mathf.Lerp(1, 0.01f, t));
+
+        }
+
+
+
+
+    }
 
 
 
