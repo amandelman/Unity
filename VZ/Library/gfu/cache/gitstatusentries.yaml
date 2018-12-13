@@ -12,6 +12,864 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-12-12T17:28:18.012+01:00
-  initializedAtString: 2018-12-12T09:57:08.596+01:00
-  entries: []
+  lastUpdatedAtString: 2018-12-13T13:37:44.188+01:00
+  initializedAtString: 2018-12-13T13:05:38.436+01:00
+  entries:
+  - path: VZ/.vs/VZ/xs/sqlite3/storage.ide
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/.vs/VZ/xs/sqlite3/storage.ide
+    projectPath: .vs/VZ/xs/sqlite3/storage.ide
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/.vs/VZ/xs/sqlite3/storage.ide-shm
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/.vs/VZ/xs/sqlite3/storage.ide-shm
+    projectPath: .vs/VZ/xs/sqlite3/storage.ide-shm
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/.vs/VZ/xs/sqlite3/storage.ide-wal
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/.vs/VZ/xs/sqlite3/storage.ide-wal
+    projectPath: .vs/VZ/xs/sqlite3/storage.ide-wal
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/.vs/VZ/xs/UserPrefs.xml
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/.vs/VZ/xs/UserPrefs.xml
+    projectPath: .vs/VZ/xs/UserPrefs.xml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Assembly-CSharp.csproj
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Assets/Prefabs/House.prefab
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Prefabs/House.prefab
+    projectPath: Assets/Prefabs/House.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Assets/Prefabs/House.prefab.meta
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Prefabs/House.prefab.meta
+    projectPath: Assets/Prefabs/House.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Assets/Scenes/SampleScene.unity
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Assets/Scripts/House.cs
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Scripts/House.cs
+    projectPath: Assets/Scripts/House.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Assets/Scripts/House.cs.meta
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Scripts/House.cs.meta
+    projectPath: Assets/Scripts/House.cs.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Assets/Scripts/HouseController.cs
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Scripts/HouseController.cs
+    projectPath: Assets/Scripts/HouseController.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Assets/Scripts/HouseController.cs.meta
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Assets/Scripts/HouseController.cs.meta
+    projectPath: Assets/Scripts/HouseController.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Library/assetDatabase3
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/Collab/CollabSnapshot_eae52823-b2ea-448c-a22c-b0ab4d78fdcd.txt
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/Collab/CollabSnapshot_eae52823-b2ea-448c-a22c-b0ab4d78fdcd.txt
+    projectPath: Library/Collab/CollabSnapshot_eae52823-b2ea-448c-a22c-b0ab4d78fdcd.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/CurrentLayout.dwlt
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/CurrentLayout.dwlt
+    projectPath: Library/CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/EditorInstance.json
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/metadata/19/19c17e48638ec4af18ad5f527febbe68
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/19/19c17e48638ec4af18ad5f527febbe68
+    projectPath: Library/metadata/19/19c17e48638ec4af18ad5f527febbe68
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/metadata/19/19c17e48638ec4af18ad5f527febbe68.info
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/19/19c17e48638ec4af18ad5f527febbe68.info
+    projectPath: Library/metadata/19/19c17e48638ec4af18ad5f527febbe68.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/metadata/2c/2ca829c94e1634e72b62468d7ff4b3a7
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/2c/2ca829c94e1634e72b62468d7ff4b3a7
+    projectPath: Library/metadata/2c/2ca829c94e1634e72b62468d7ff4b3a7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Library/metadata/2c/2ca829c94e1634e72b62468d7ff4b3a7.info
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/2c/2ca829c94e1634e72b62468d7ff4b3a7.info
+    projectPath: Library/metadata/2c/2ca829c94e1634e72b62468d7ff4b3a7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Library/metadata/4f/4fd7f3ee74cc74add8cdaa7a07a2c081
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/4f/4fd7f3ee74cc74add8cdaa7a07a2c081
+    projectPath: Library/metadata/4f/4fd7f3ee74cc74add8cdaa7a07a2c081
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Library/metadata/4f/4fd7f3ee74cc74add8cdaa7a07a2c081.info
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/4f/4fd7f3ee74cc74add8cdaa7a07a2c081.info
+    projectPath: Library/metadata/4f/4fd7f3ee74cc74add8cdaa7a07a2c081.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Library/metadata/dc/dca8d9fd4039943b783b476cc4ac8e4d
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/metadata/dc/dca8d9fd4039943b783b476cc4ac8e4d
+    projectPath: Library/metadata/dc/dca8d9fd4039943b783b476cc4ac8e4d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/ProjectSettings.asset
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/ProjectSettings.asset
+    projectPath: Library/ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Temp/__Backupscenes/0.backup
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: VZ/Temp/ProcessJobs/057f2d30d5e29b8416644c0159083215.bakert
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/ProcessJobs/057f2d30d5e29b8416644c0159083215.bakert
+    projectPath: Temp/ProcessJobs/057f2d30d5e29b8416644c0159083215.bakert
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/ProcessJobs/4aab570d8c7de47b763a9531cdf97769.bakert
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/ProcessJobs/4aab570d8c7de47b763a9531cdf97769.bakert
+    projectPath: Temp/ProcessJobs/4aab570d8c7de47b763a9531cdf97769.bakert
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/ProcessJobs/58abc9b83332116488993054c732520c.bakert
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/ProcessJobs/58abc9b83332116488993054c732520c.bakert
+    projectPath: Temp/ProcessJobs/58abc9b83332116488993054c732520c.bakert
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/ProcessJobs/a69b10b7fdde111f8c55243223f3e764.bakert
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/ProcessJobs/a69b10b7fdde111f8c55243223f3e764.bakert
+    projectPath: Temp/ProcessJobs/a69b10b7fdde111f8c55243223f3e764.bakert
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-001cbcb0ceefd427d8e9100361649e7e
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-001cbcb0ceefd427d8e9100361649e7e
+    projectPath: Temp/UnityTempFile-001cbcb0ceefd427d8e9100361649e7e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-0e34eb53f94cb48d1aae16c5fa3de008
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-0e34eb53f94cb48d1aae16c5fa3de008
+    projectPath: Temp/UnityTempFile-0e34eb53f94cb48d1aae16c5fa3de008
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-12769387afa3641c8806697166065b7b
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-12769387afa3641c8806697166065b7b
+    projectPath: Temp/UnityTempFile-12769387afa3641c8806697166065b7b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-1520aaaa5a00046d4b754c0272de8b33
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-1520aaaa5a00046d4b754c0272de8b33
+    projectPath: Temp/UnityTempFile-1520aaaa5a00046d4b754c0272de8b33
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-1e9f50769ab8f442badc517b44c68745
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-1e9f50769ab8f442badc517b44c68745
+    projectPath: Temp/UnityTempFile-1e9f50769ab8f442badc517b44c68745
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-1f6c4a09f87134e7eac8e1dd8b3d81a2
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-1f6c4a09f87134e7eac8e1dd8b3d81a2
+    projectPath: Temp/UnityTempFile-1f6c4a09f87134e7eac8e1dd8b3d81a2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-22d3d2a8919ea48bab63faba4db75904
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-22d3d2a8919ea48bab63faba4db75904
+    projectPath: Temp/UnityTempFile-22d3d2a8919ea48bab63faba4db75904
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-2550bff57ce694978a76a97f76d8d68d
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-2550bff57ce694978a76a97f76d8d68d
+    projectPath: Temp/UnityTempFile-2550bff57ce694978a76a97f76d8d68d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-261dbdf25d5b3477f9ba96a841dcbba9
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-261dbdf25d5b3477f9ba96a841dcbba9
+    projectPath: Temp/UnityTempFile-261dbdf25d5b3477f9ba96a841dcbba9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-282b0e1889bff499b82ad552eb15874e
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-282b0e1889bff499b82ad552eb15874e
+    projectPath: Temp/UnityTempFile-282b0e1889bff499b82ad552eb15874e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-2a2606de273154cc69379e13bf867072
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-2a2606de273154cc69379e13bf867072
+    projectPath: Temp/UnityTempFile-2a2606de273154cc69379e13bf867072
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-2cd5c241b511b4fd0baeb1357d7af6a3
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-2cd5c241b511b4fd0baeb1357d7af6a3
+    projectPath: Temp/UnityTempFile-2cd5c241b511b4fd0baeb1357d7af6a3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-2d664ecbaf14044c5ab659a8ec86fd48
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-2d664ecbaf14044c5ab659a8ec86fd48
+    projectPath: Temp/UnityTempFile-2d664ecbaf14044c5ab659a8ec86fd48
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-2da95b2a59260443a85b3385da2730b4
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-2da95b2a59260443a85b3385da2730b4
+    projectPath: Temp/UnityTempFile-2da95b2a59260443a85b3385da2730b4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-2eb3bec3c949f42818d98eadb40a4fc5
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-2eb3bec3c949f42818d98eadb40a4fc5
+    projectPath: Temp/UnityTempFile-2eb3bec3c949f42818d98eadb40a4fc5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-2fe75cc9fb2d1415aaf46a8149543f1e
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-2fe75cc9fb2d1415aaf46a8149543f1e
+    projectPath: Temp/UnityTempFile-2fe75cc9fb2d1415aaf46a8149543f1e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-300093651412846929ae4506e3670ab5
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-300093651412846929ae4506e3670ab5
+    projectPath: Temp/UnityTempFile-300093651412846929ae4506e3670ab5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-310320b2ed90b4622a9dffbcbc2f6b73
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-310320b2ed90b4622a9dffbcbc2f6b73
+    projectPath: Temp/UnityTempFile-310320b2ed90b4622a9dffbcbc2f6b73
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-313eedf7be43c4795ac46dce88896715
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-313eedf7be43c4795ac46dce88896715
+    projectPath: Temp/UnityTempFile-313eedf7be43c4795ac46dce88896715
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-341f89b53d9154c6bb2a4b8a4a8e20ea
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-341f89b53d9154c6bb2a4b8a4a8e20ea
+    projectPath: Temp/UnityTempFile-341f89b53d9154c6bb2a4b8a4a8e20ea
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-34238f8fc9f3545eb902adc4fa8ccbef
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-34238f8fc9f3545eb902adc4fa8ccbef
+    projectPath: Temp/UnityTempFile-34238f8fc9f3545eb902adc4fa8ccbef
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-34632fd47551e492e8180222056789cb
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-34632fd47551e492e8180222056789cb
+    projectPath: Temp/UnityTempFile-34632fd47551e492e8180222056789cb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-34a0c7d83b64a406abf3f7f3f9b890ea
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-34a0c7d83b64a406abf3f7f3f9b890ea
+    projectPath: Temp/UnityTempFile-34a0c7d83b64a406abf3f7f3f9b890ea
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-360f963b27ec44446aa2d1dc8952b705
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-360f963b27ec44446aa2d1dc8952b705
+    projectPath: Temp/UnityTempFile-360f963b27ec44446aa2d1dc8952b705
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-36c495f4473c5410c943a774d398f4c2
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-36c495f4473c5410c943a774d398f4c2
+    projectPath: Temp/UnityTempFile-36c495f4473c5410c943a774d398f4c2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-37d5c468b82594c1f9b35a898e0c28cd
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-37d5c468b82594c1f9b35a898e0c28cd
+    projectPath: Temp/UnityTempFile-37d5c468b82594c1f9b35a898e0c28cd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-3e04fd35235f84798b8a63354a082a77
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-3e04fd35235f84798b8a63354a082a77
+    projectPath: Temp/UnityTempFile-3e04fd35235f84798b8a63354a082a77
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-3f87fd58ec49b4a7688e05f17df43967
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-3f87fd58ec49b4a7688e05f17df43967
+    projectPath: Temp/UnityTempFile-3f87fd58ec49b4a7688e05f17df43967
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-4229c86e0dc2b4ea8992f6e084b73349
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-4229c86e0dc2b4ea8992f6e084b73349
+    projectPath: Temp/UnityTempFile-4229c86e0dc2b4ea8992f6e084b73349
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-431f1030f1edd4e9ab1ffdd7de406296
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-431f1030f1edd4e9ab1ffdd7de406296
+    projectPath: Temp/UnityTempFile-431f1030f1edd4e9ab1ffdd7de406296
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-45e03eed9c61a41b3a8a95dff3db38c2
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-45e03eed9c61a41b3a8a95dff3db38c2
+    projectPath: Temp/UnityTempFile-45e03eed9c61a41b3a8a95dff3db38c2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-470087c8a548d44208dd3687fb145767
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-470087c8a548d44208dd3687fb145767
+    projectPath: Temp/UnityTempFile-470087c8a548d44208dd3687fb145767
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-487fc79f0526d4858a22b7a0dd763e82
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-487fc79f0526d4858a22b7a0dd763e82
+    projectPath: Temp/UnityTempFile-487fc79f0526d4858a22b7a0dd763e82
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-49235e10e02e741dea9f78ccf063c6f6
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-49235e10e02e741dea9f78ccf063c6f6
+    projectPath: Temp/UnityTempFile-49235e10e02e741dea9f78ccf063c6f6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-495479e06f5f54246b3621ef13b788a5
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-495479e06f5f54246b3621ef13b788a5
+    projectPath: Temp/UnityTempFile-495479e06f5f54246b3621ef13b788a5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-4ab19730b3af649f3884d6a06acef94a
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-4ab19730b3af649f3884d6a06acef94a
+    projectPath: Temp/UnityTempFile-4ab19730b3af649f3884d6a06acef94a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-4b273c5a9713c41d186aa42cad8bd945
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-4b273c5a9713c41d186aa42cad8bd945
+    projectPath: Temp/UnityTempFile-4b273c5a9713c41d186aa42cad8bd945
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-4e80f00ddb0134e16ab91c304349b53c
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-4e80f00ddb0134e16ab91c304349b53c
+    projectPath: Temp/UnityTempFile-4e80f00ddb0134e16ab91c304349b53c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-52852c51d996b4a538c40e4c871cf011
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-52852c51d996b4a538c40e4c871cf011
+    projectPath: Temp/UnityTempFile-52852c51d996b4a538c40e4c871cf011
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-5cfdc400e262b4af58da8275e0b2e1b1
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-5cfdc400e262b4af58da8275e0b2e1b1
+    projectPath: Temp/UnityTempFile-5cfdc400e262b4af58da8275e0b2e1b1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-647184f22610f4451aa6a4bcd4d3d181
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-647184f22610f4451aa6a4bcd4d3d181
+    projectPath: Temp/UnityTempFile-647184f22610f4451aa6a4bcd4d3d181
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-64c460b812a7a42808a66891a18b80b0
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-64c460b812a7a42808a66891a18b80b0
+    projectPath: Temp/UnityTempFile-64c460b812a7a42808a66891a18b80b0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-653f2f94f694745cdbfa92a152cfc862
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-653f2f94f694745cdbfa92a152cfc862
+    projectPath: Temp/UnityTempFile-653f2f94f694745cdbfa92a152cfc862
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-684211857feaf40268bb2476224ea13b
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-684211857feaf40268bb2476224ea13b
+    projectPath: Temp/UnityTempFile-684211857feaf40268bb2476224ea13b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-69ae7449d4ec44ea79d61894e31cc2a5
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-69ae7449d4ec44ea79d61894e31cc2a5
+    projectPath: Temp/UnityTempFile-69ae7449d4ec44ea79d61894e31cc2a5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-6bc58d92dafc84a299dcad8755c243ad
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-6bc58d92dafc84a299dcad8755c243ad
+    projectPath: Temp/UnityTempFile-6bc58d92dafc84a299dcad8755c243ad
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-6c10af0d8738747ae9d3b40823216b88
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-6c10af0d8738747ae9d3b40823216b88
+    projectPath: Temp/UnityTempFile-6c10af0d8738747ae9d3b40823216b88
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-6c4165bcba81049239a7ef6657f3dc45
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-6c4165bcba81049239a7ef6657f3dc45
+    projectPath: Temp/UnityTempFile-6c4165bcba81049239a7ef6657f3dc45
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-6ec0b893ccf1a45c2943e867d6508ff4
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-6ec0b893ccf1a45c2943e867d6508ff4
+    projectPath: Temp/UnityTempFile-6ec0b893ccf1a45c2943e867d6508ff4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-6eefdaf04dd85482cb9b718255e0abad
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-6eefdaf04dd85482cb9b718255e0abad
+    projectPath: Temp/UnityTempFile-6eefdaf04dd85482cb9b718255e0abad
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-7324e0b56efc04f5397111da9814a206
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-7324e0b56efc04f5397111da9814a206
+    projectPath: Temp/UnityTempFile-7324e0b56efc04f5397111da9814a206
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-776391919ef384c558c55ccf4aba8073
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-776391919ef384c558c55ccf4aba8073
+    projectPath: Temp/UnityTempFile-776391919ef384c558c55ccf4aba8073
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-79137546f2ca343fab04c62d40d57cb3
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-79137546f2ca343fab04c62d40d57cb3
+    projectPath: Temp/UnityTempFile-79137546f2ca343fab04c62d40d57cb3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-7c6ab719c9cc9451ba7f48c72627280f
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-7c6ab719c9cc9451ba7f48c72627280f
+    projectPath: Temp/UnityTempFile-7c6ab719c9cc9451ba7f48c72627280f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-7ce74b82ee2464c468987c8c2bcd820e
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-7ce74b82ee2464c468987c8c2bcd820e
+    projectPath: Temp/UnityTempFile-7ce74b82ee2464c468987c8c2bcd820e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-846ffbf8e646f42659fb6caf297fd0b4
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-846ffbf8e646f42659fb6caf297fd0b4
+    projectPath: Temp/UnityTempFile-846ffbf8e646f42659fb6caf297fd0b4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-869f4e4059f224371b26fe88b924fcc1
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-869f4e4059f224371b26fe88b924fcc1
+    projectPath: Temp/UnityTempFile-869f4e4059f224371b26fe88b924fcc1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-8abed31ca58774ae2a699436609fd047
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-8abed31ca58774ae2a699436609fd047
+    projectPath: Temp/UnityTempFile-8abed31ca58774ae2a699436609fd047
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-8b2da87acf628458b9509e0d40073494
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-8b2da87acf628458b9509e0d40073494
+    projectPath: Temp/UnityTempFile-8b2da87acf628458b9509e0d40073494
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-8e939384b4864436cbe285f5270eb677
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-8e939384b4864436cbe285f5270eb677
+    projectPath: Temp/UnityTempFile-8e939384b4864436cbe285f5270eb677
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-90eada7cec7c945e19c8f83e0e2653e8
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-90eada7cec7c945e19c8f83e0e2653e8
+    projectPath: Temp/UnityTempFile-90eada7cec7c945e19c8f83e0e2653e8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-939c783e0611d4e71a07e3e02559819c
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-939c783e0611d4e71a07e3e02559819c
+    projectPath: Temp/UnityTempFile-939c783e0611d4e71a07e3e02559819c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-94f048a2803684afea9f28c92c5e97d1
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-94f048a2803684afea9f28c92c5e97d1
+    projectPath: Temp/UnityTempFile-94f048a2803684afea9f28c92c5e97d1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-950363e2a00a94044a7083551ecbb1c6
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-950363e2a00a94044a7083551ecbb1c6
+    projectPath: Temp/UnityTempFile-950363e2a00a94044a7083551ecbb1c6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-9666eeab27f6e4b7c99a1638912776ba
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-9666eeab27f6e4b7c99a1638912776ba
+    projectPath: Temp/UnityTempFile-9666eeab27f6e4b7c99a1638912776ba
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-968b0d96ffefc4b8b89a035859f3c061
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-968b0d96ffefc4b8b89a035859f3c061
+    projectPath: Temp/UnityTempFile-968b0d96ffefc4b8b89a035859f3c061
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-9821e3da0ecc6426dbd14fbc68eaa210
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-9821e3da0ecc6426dbd14fbc68eaa210
+    projectPath: Temp/UnityTempFile-9821e3da0ecc6426dbd14fbc68eaa210
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-a0c510ff441f448c69c0f15db7a1da43
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-a0c510ff441f448c69c0f15db7a1da43
+    projectPath: Temp/UnityTempFile-a0c510ff441f448c69c0f15db7a1da43
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-a4b66a877cb7d41539a751affdc272e2
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-a4b66a877cb7d41539a751affdc272e2
+    projectPath: Temp/UnityTempFile-a4b66a877cb7d41539a751affdc272e2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-a97dee8ce5a7349f5b26319fabab5d8b
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-a97dee8ce5a7349f5b26319fabab5d8b
+    projectPath: Temp/UnityTempFile-a97dee8ce5a7349f5b26319fabab5d8b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-aad656e2dcc7440abb66d144dfe9f09d
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-aad656e2dcc7440abb66d144dfe9f09d
+    projectPath: Temp/UnityTempFile-aad656e2dcc7440abb66d144dfe9f09d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-aeaeb110e92fe42cc8ee1f0865079056
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-aeaeb110e92fe42cc8ee1f0865079056
+    projectPath: Temp/UnityTempFile-aeaeb110e92fe42cc8ee1f0865079056
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-af343a008f18745de879edbcab219365
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-af343a008f18745de879edbcab219365
+    projectPath: Temp/UnityTempFile-af343a008f18745de879edbcab219365
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-b1dd19bf757c544d8bc18e63b2208f80
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-b1dd19bf757c544d8bc18e63b2208f80
+    projectPath: Temp/UnityTempFile-b1dd19bf757c544d8bc18e63b2208f80
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-b24bf8c48b6724baf9ab703dda48a322
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-b24bf8c48b6724baf9ab703dda48a322
+    projectPath: Temp/UnityTempFile-b24bf8c48b6724baf9ab703dda48a322
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-b7cd37ad012504a8c883c5fd700a910a
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-b7cd37ad012504a8c883c5fd700a910a
+    projectPath: Temp/UnityTempFile-b7cd37ad012504a8c883c5fd700a910a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-b7fd7225a5baf4ac39db7ca014e9b900
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-b7fd7225a5baf4ac39db7ca014e9b900
+    projectPath: Temp/UnityTempFile-b7fd7225a5baf4ac39db7ca014e9b900
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-b9129051989e94f7c93b47583d1b7a7c
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-b9129051989e94f7c93b47583d1b7a7c
+    projectPath: Temp/UnityTempFile-b9129051989e94f7c93b47583d1b7a7c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-ba09977b396494851bc19346dbcb6828
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-ba09977b396494851bc19346dbcb6828
+    projectPath: Temp/UnityTempFile-ba09977b396494851bc19346dbcb6828
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-ba88dbbe3c9e7486ebdb74b6ae91868d
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-ba88dbbe3c9e7486ebdb74b6ae91868d
+    projectPath: Temp/UnityTempFile-ba88dbbe3c9e7486ebdb74b6ae91868d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-babfa66c6296e41dd9ad106a3ea2fe21
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-babfa66c6296e41dd9ad106a3ea2fe21
+    projectPath: Temp/UnityTempFile-babfa66c6296e41dd9ad106a3ea2fe21
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-bb7dcaadc2d42433aaf5938d39e80380
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-bb7dcaadc2d42433aaf5938d39e80380
+    projectPath: Temp/UnityTempFile-bb7dcaadc2d42433aaf5938d39e80380
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-c5d7af26e646c4f4aaa186f0c7b4a484
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-c5d7af26e646c4f4aaa186f0c7b4a484
+    projectPath: Temp/UnityTempFile-c5d7af26e646c4f4aaa186f0c7b4a484
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-c9ddb7e1866834d969906d934bbe76d9
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-c9ddb7e1866834d969906d934bbe76d9
+    projectPath: Temp/UnityTempFile-c9ddb7e1866834d969906d934bbe76d9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-ca3eede6a232d4b9782982d82099a11f
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-ca3eede6a232d4b9782982d82099a11f
+    projectPath: Temp/UnityTempFile-ca3eede6a232d4b9782982d82099a11f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-caeb5d82d01234f02843467df4615c90
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-caeb5d82d01234f02843467df4615c90
+    projectPath: Temp/UnityTempFile-caeb5d82d01234f02843467df4615c90
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-cb0927614a91e497ea60a0a7859a138a
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-cb0927614a91e497ea60a0a7859a138a
+    projectPath: Temp/UnityTempFile-cb0927614a91e497ea60a0a7859a138a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-cb5cf15139c904f86beaff030a589896
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-cb5cf15139c904f86beaff030a589896
+    projectPath: Temp/UnityTempFile-cb5cf15139c904f86beaff030a589896
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-d0a17d53b242e4ccf8f822c9c623f716
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-d0a17d53b242e4ccf8f822c9c623f716
+    projectPath: Temp/UnityTempFile-d0a17d53b242e4ccf8f822c9c623f716
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-d266f8c7d8dfb4616becfb3ba63a7508
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-d266f8c7d8dfb4616becfb3ba63a7508
+    projectPath: Temp/UnityTempFile-d266f8c7d8dfb4616becfb3ba63a7508
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-d6345f95fef0e45aaacd15538e57976e
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-d6345f95fef0e45aaacd15538e57976e
+    projectPath: Temp/UnityTempFile-d6345f95fef0e45aaacd15538e57976e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-d6fcd99941d414517940926cc60aa58c
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-d6fcd99941d414517940926cc60aa58c
+    projectPath: Temp/UnityTempFile-d6fcd99941d414517940926cc60aa58c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-dbd0f0cc76bb74fdcb7b444a62fc79d4
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-dbd0f0cc76bb74fdcb7b444a62fc79d4
+    projectPath: Temp/UnityTempFile-dbd0f0cc76bb74fdcb7b444a62fc79d4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-dc9b0be90702f4c7d800c0224b06eead
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-dc9b0be90702f4c7d800c0224b06eead
+    projectPath: Temp/UnityTempFile-dc9b0be90702f4c7d800c0224b06eead
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-dcf5befc1745a4d6293247dea72b2ac4
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-dcf5befc1745a4d6293247dea72b2ac4
+    projectPath: Temp/UnityTempFile-dcf5befc1745a4d6293247dea72b2ac4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-e599ce73d1ffa4f79b94a7e30d9a4f4a
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-e599ce73d1ffa4f79b94a7e30d9a4f4a
+    projectPath: Temp/UnityTempFile-e599ce73d1ffa4f79b94a7e30d9a4f4a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-e613dfc7fe82944c59311af56bd20591
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-e613dfc7fe82944c59311af56bd20591
+    projectPath: Temp/UnityTempFile-e613dfc7fe82944c59311af56bd20591
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-eb3661f07fb824e4988241d145f3b70b
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-eb3661f07fb824e4988241d145f3b70b
+    projectPath: Temp/UnityTempFile-eb3661f07fb824e4988241d145f3b70b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-edc1e7b387b0e499d81b52b9b8c5d98a
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-edc1e7b387b0e499d81b52b9b8c5d98a
+    projectPath: Temp/UnityTempFile-edc1e7b387b0e499d81b52b9b8c5d98a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-ef8ff29a943284335844c60a249444b2
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-ef8ff29a943284335844c60a249444b2
+    projectPath: Temp/UnityTempFile-ef8ff29a943284335844c60a249444b2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-efc34dae94a924c099ed8dfa146b5b22
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-efc34dae94a924c099ed8dfa146b5b22
+    projectPath: Temp/UnityTempFile-efc34dae94a924c099ed8dfa146b5b22
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-f41903bfad3434282a68f481c9e46b4d
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-f41903bfad3434282a68f481c9e46b4d
+    projectPath: Temp/UnityTempFile-f41903bfad3434282a68f481c9e46b4d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-f64fd3a29649d4658af098b21d237577
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-f64fd3a29649d4658af098b21d237577
+    projectPath: Temp/UnityTempFile-f64fd3a29649d4658af098b21d237577
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-f9506c022d1f44e6d8cb1c443c2c1d97
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-f9506c022d1f44e6d8cb1c443c2c1d97
+    projectPath: Temp/UnityTempFile-f9506c022d1f44e6d8cb1c443c2c1d97
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-fc03fcb1182c74c349f94282486e0d9e
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-fc03fcb1182c74c349f94282486e0d9e
+    projectPath: Temp/UnityTempFile-fc03fcb1182c74c349f94282486e0d9e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: VZ/Temp/UnityTempFile-fc5d0eb5cf05c43d3af975e63fd149a3
+    fullPath: /Users/amandelman/github.amandelman/Unity/VZ/Temp/UnityTempFile-fc5d0eb5cf05c43d3af975e63fd149a3
+    projectPath: Temp/UnityTempFile-fc5d0eb5cf05c43d3af975e63fd149a3
+    originalPath: 
+    status: 5
+    staged: 0

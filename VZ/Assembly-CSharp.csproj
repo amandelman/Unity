@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\GameSettings.cs" />
      <Compile Include="Assets\Scripts\House.cs" />
+     <Compile Include="Assets\Scripts\HouseController.cs" />
      <Compile Include="Assets\Scripts\LineControlScript.cs" />
      <Compile Include="Assets\Scripts\LineDrawingController.cs" />
  <Reference Include="UnityEditor.StandardEvents">

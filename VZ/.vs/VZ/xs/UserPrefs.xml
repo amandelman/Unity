@@ -1,10 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LineDrawingController.cs">
     <Files>
-      <File FileName="Assets/Scripts/House.cs" Line="25" Column="35" />
-      <File FileName="Assets/Scripts/LineDrawingController.cs" Line="16" Column="5" />
-      <File FileName="Assets/Scripts/LineControlScript.cs" Line="12" Column="1" />
-      <File FileName="Assets/Scripts/GameSettings.cs" Line="14" Column="19" />
+      <File FileName="Assets/Scripts/LineDrawingController.cs" Line="13" Column="35" />
+      <File FileName="Assets/Scripts/House.cs" Line="20" Column="33" />
+      <File FileName="Assets/Scripts/LineControlScript.cs" Line="8" Column="40" />
+      <File FileName="Assets/Scripts/GameSettings.cs" Line="16" Column="27" />
+      <File FileName="Assets/Scripts/HouseController.cs" Line="13" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

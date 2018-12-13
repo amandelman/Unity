@@ -4,16 +4,10 @@ using UnityEngine;
 
 
 public class LineDrawingController : MonoBehaviour {
-
-    //Offloaded to Game Settings
-    //public float networkCapacityIncrease = 3;
-
     LineRenderer lineRenderer;
     int count = 0;
     public float lineCreationTime;
     bool activeDrawing = true;
-
-
 
 	// Use this for initialization
 	void Start () {
@@ -32,7 +26,6 @@ public class LineDrawingController : MonoBehaviour {
      
     }
 
-	
 	// Update is called once per frame
 	void Update () {
 
